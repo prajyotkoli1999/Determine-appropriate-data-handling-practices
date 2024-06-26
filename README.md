@@ -8,10 +8,9 @@ effective data handling processes are being implemented to protect information p
 Data is among the most valuable assets in the world today. Everything from intellectual property 
 to guest WiFi networks should be protected with a combination of technical, operational, and 
 managerial controls. Implementing the principle of least privilege is essential to protect 
-information privacy.
-Be sure to complete this activity before moving on. The next course item will provide you with a 
-completed exemplar to compare to your own work.
-Scenario
+information privacy
+
+### Scenareo
 Review the following scenario. Then complete the step-by-step instructions.
 You work for an educational technology company that developed an application to help teachers 
 automatically grade assignments. The application handles a wide range of data that it collects 
@@ -26,10 +25,11 @@ been asked to analyze the situation and find ways to prevent it from happening a
 First, you'll need to evaluate details about the incident. Then, you'll review the controls in place to 
 prevent data leaks. Next, you'll identify ways to improve information privacy at the company. 
 Finally, you'll justify why you think your recommendations will make data handling at the 
-company more secure.
+company more secure
+
 
 ### Skills Learned
-
 - NIST Cybersecurity Framework
+- data privacy controls
 
 
