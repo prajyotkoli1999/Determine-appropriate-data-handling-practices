@@ -1,7 +1,6 @@
 # Determine-appropriate-data-handling-practices
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 ## Activity Overview
 In this activity, you will review the results of a data risk assessment. You will determine whether 
