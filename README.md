@@ -29,8 +29,7 @@ Finally, you'll justify why you think your recommendations will make data handli
 company more secure.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- NIST Cybersecurity Framework (CSF.
+- NIST Cybersecurity Framework
 
 
